@@ -25,5 +25,4 @@ sudo ./luna-god-script.sh
 Discord
 
 ↓
-
-BaSH
+BaSH#3117
