@@ -17,3 +17,13 @@ sudo chmod +x luna-god-script.sh
 3-2.ルナ様とお話しよう！！
 
 sudo ./luna-god-script.sh
+
+4.その他
+
+他にも作って欲しいキャラのスクリプトがあったらDiscordに送ってね、待ってるよ
+
+Discord
+
+↓
+
+BaSH
