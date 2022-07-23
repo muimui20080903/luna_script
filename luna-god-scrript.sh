@@ -8,8 +8,8 @@ read user_name
 echo "君の名前:$user_name"
 echo "ルナ様「なるほど、君の名前は$user_nameと言うのだな」"
 echo "ルナ様「$user_name、最近の調子はどうだ？」"
-  read status
 echo "(Y:とても良い/N:悪い)"
+  read status
    echo "$statusを選択"
 
 if [ $status = Y ] ; then
